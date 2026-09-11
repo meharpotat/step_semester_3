@@ -18,3 +18,27 @@
 
 \---
 
+
+
+
+
+\## Date: 12-09-2026
+
+\*\*Today's Work:\*\*
+
+\- Completed Session 3 (Day 3) assignment problems: Simple Book Record Class, Two Objects Two Separate Occupancy Counts, Reading Java's Default Field Values (Employee), Basic Constructor for a Product, Counting Objects With a Static Field (Order)
+
+
+
+\*\*Next Session Plan:\*\*
+
+\- Await Session 4 problem set
+
+
+
+\*\*Issues Faced:\*\*
+
+\- None
+
+\---
+
