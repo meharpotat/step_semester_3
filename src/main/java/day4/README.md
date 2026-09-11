@@ -18,3 +18,25 @@
 
 \---
 
+
+
+\## Date: 12-09-2026
+
+\*\*Today's Work:\*\*
+
+\- Completed Session 4 (Day 4) assignment problems: Product of Array Except Self, Maximum Subarray (Kadane's), 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array
+
+
+
+\*\*Next Session Plan:\*\*
+
+\- Await Session 5 problem set
+
+
+
+\*\*Issues Faced:\*\*
+
+\- None
+
+\---
+
